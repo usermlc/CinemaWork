@@ -1,4 +1,4 @@
-# CollectionTester
+# CinemaWork
 
 ## Опис проекту
 
